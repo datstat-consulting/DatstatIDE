@@ -2,9 +2,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/vitalelement/avalonstudio/badge)](https://www.codefactor.io/repository/github/vitalelement/avalonstudio)
 [![Gitter](https://badges.gitter.im/VitalElement/AvalonStudio.svg)](https://gitter.im/VitalElement/AvalonStudio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# AvalonStudio
+# Datstat IDE
 
-An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
+An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript. Forked from Avalon Studio by Vital Element, customized for Datstat Consulting's use.
 
 <img src="https://files.gitter.im/VitalElement/AvalonStudio/3eEt/image.png" />
 <img src="https://files.gitter.im/VitalElement/AvalonStudio/3yMR/image.png" />
@@ -12,6 +12,10 @@ An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, A
 <img src="https://files.gitter.im/VitalElement/AvalonStudio/gpYQ/Screenshot-from-2017-10-09-15-51-18.png" />
 <img src="https://files.gitter.im/VitalElement/AvalonStudio/LUgi/image.png" />
 <img src="https://files.gitter.im/VitalElement/AvalonStudio/r3QX/image.png" />
+
+## To-do
+- Update to Avalonia 11
+- Change aesthetics and branding
 
 ## Building from source
 
